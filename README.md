@@ -18,3 +18,4 @@ el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### DESARROLLO
 ### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
 ### actualidad?
+| Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
