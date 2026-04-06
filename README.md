@@ -1,7 +1,7 @@
 # ICS 6030 PROGRAMACIÓN DE APP PARA DISPOSITIVOS MÓVILES
-TSASDS - 3º AÑO PROF. GERARDO RENÉ ROSALES
-TRABAJO PRÁCTICO Nº 1
-Fundamentos y Ecosistemas del Desarrollo Móvil
+# TSASDS - 3º AÑO PROF. GERARDO RENÉ ROSALES
+# TRABAJO PRÁCTICO Nº 1
+### Fundamentos y Ecosistemas del Desarrollo Móvil
 Realizar el siguiente trabajo práctico en el repositorio de github asignado para la
 ### actividad. 
 Se deberán contestar las preguntas y subirlas como README.md
