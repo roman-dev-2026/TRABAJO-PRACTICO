@@ -26,5 +26,4 @@ La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas ope
 
 ### 2 - ¿Cuáles son las principales diferencias técnicas entre el desarrollo nativo para iOS y
 ### para Android en la actualidad?
-| :---: |
-| Diferencias entre Sistemas operativos|
+| :--Diferencias entre Sistemas operativos--: |
