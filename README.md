@@ -22,5 +22,4 @@ La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas ope
 | Sistema Operativo | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
 | --------------- | ----------------- | ----------------- | ---------------------------- |
 | Andorid         |                   |                   |                              |
-| --------------- |                   |                   |                              |
-| IOS         |
+| IOS |                   |                   |                              |
