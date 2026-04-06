@@ -8,7 +8,7 @@ Se deberán contestar las preguntas y subirlas como README.md
 ### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
 ### actualidad?
 ### 2 - ¿Cuáles son las principales diferencias técnicas entre el desarrollo nativo para iOS y
-para Android en la actualidad?
+### para Android en la actualidad?
 ### 3 - ¿A qué nos referimos cuando hablamos de desarrollo nativo en programación de
 APP móviles? ¿Qué ventajas ofrece sobre el desarrollo multiplataforma?
 ### 4 - ¿Qué ventaja principal ofrece un Framework Multiplataforma (como Flutter o React
@@ -23,3 +23,8 @@ La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas ope
 | :---: | :---: | :---: | :---: |
 | Andorid         |                   |                   |                              |
 | IOS |                   |                   |                              |
+
+### 2 - ¿Cuáles son las principales diferencias técnicas entre el desarrollo nativo para iOS y
+### para Android en la actualidad?
+| :---: |
+| Diferencias entre Sistemas operativos|
