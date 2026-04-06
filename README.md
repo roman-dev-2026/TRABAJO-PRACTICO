@@ -6,7 +6,7 @@ Realizar el siguiente trabajo práctico en el repositorio de github asignado par
 ### actividad. 
 Se deberán contestar las preguntas y subirlas como README.md
 ### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
-actualidad?
+### actualidad?
 ### 2 - ¿Cuáles son las principales diferencias técnicas entre el desarrollo nativo para iOS y
 para Android en la actualidad?
 ### 3 - ¿A qué nos referimos cuando hablamos de desarrollo nativo en programación de
@@ -16,3 +16,5 @@ Native) frente al desarrollo nativo?
 ### 5 - En el contexto de la arquitectura móvil, ¿cuál es la función de una API REST importa
 el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### DESARROLLO
+### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
+### actualidad?
