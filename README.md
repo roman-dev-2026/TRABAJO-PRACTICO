@@ -20,3 +20,6 @@ el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### actualidad?
 La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas operativos principales para dispositivos móviles, incluidos Apple iOS, Google Android.
 | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
+| --------------- | ----------------- | ---------------------------- |
+|                 |                   |                              |
+|                 |                   |                              |
