@@ -19,7 +19,7 @@ el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
 ### actualidad?
 La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas operativos principales para dispositivos móviles, incluidos Apple iOS, Google Android.
-| Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
+| Sistema Operativo | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
 | --------------- | ----------------- | ---------------------------- |
 |                 |                   |                              |
 |                 |                   |                              |
