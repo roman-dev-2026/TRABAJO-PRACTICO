@@ -19,11 +19,11 @@ el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### 1 - ¿Cuáles son los principales sistemas operativos para dispositivos móviles en la
 ### actualidad?
 La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas operativos principales para dispositivos móviles, incluidos Apple iOS, Google Android.
-| Sistema Operativo | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
-| :---: | :--- | :---: | :---: |
-| Andorid | 1. Código Abierto. (Open Source). | Entorno Android studio |
-|         | 2. Multitarea Real. | Lenguajes: Java/kotlin |                   |
-|         | 3. Ecosistema Google Play. |                       |                   |
+| Sistema Operativo | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter) |Multiplataforma (Reac Native) |
+| :---: | :--- | :--- | :--- | :--- |
+| Andorid | 1. Código Abierto. (Open Source). | 1. Entorno Android studio | 1. Lenguaje Flutter/Dark + (Java y kotlin) 
+|         | 2. Multitarea Real. | 2. Lenguajes: Java/kotlin | 2. Renderizado Propio (Skia/Impeller) |
+|         | 3. Ecosistema Google Play. | 3. Ventaja clave: Acceso inmediato a las últimas funciones de Android en cuanto salen al mercado | 3.  |
 | IOS | 1. Codigo Cerrado         |                   |                            |
 |     | 2. Seguridad y Privacidad |                   |                            |
 |     | 3. App Store              |                   |                            |
