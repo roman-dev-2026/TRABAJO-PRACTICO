@@ -20,10 +20,14 @@ el sistema operativo desde el cuál se consuma la API o es indistinto?
 ### actualidad?
 La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas operativos principales para dispositivos móviles, incluidos Apple iOS, Google Android.
 | Sistema Operativo | Caracteristicas | Desarrollo Nativo | Multiplataforma (Flutter/RN) |
-| :---: | :---: | :---: | :---: |
-| Andorid         |                   |                   |                              |
-| IOS |                   |                   |                              |
-
+| :---: | :--- | :---: | :---: |
+| Andorid | 1. Código Abierto. (Open Source). | Entorno Android studio |
+|         | 2. Multitarea Real. | Lenguajes: Java/kotlin |                   |
+|         | 3. Ecosistema Google Play. |                       |                   |
+| IOS | 1. Codigo Cerrado         |                   |                            |
+|     | 2. Seguridad y Privacidad |                   |                            |
+|     | 3. App Store              |                   |                            |
 ### 2 - ¿Cuáles son las principales diferencias técnicas entre el desarrollo nativo para iOS y
 ### para Android en la actualidad?
-| :--Diferencias entre Sistemas operativos--: |
+|DIFERENCIAS ENTRE SISTEMAS OPERATIVOS |
+| Diferencias entre Sistemas operativos |
