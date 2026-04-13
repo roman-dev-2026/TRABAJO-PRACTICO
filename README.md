@@ -85,4 +85,5 @@ La mayoría de los teléfonos inteligentes funcionan con unos pocos sistemas ope
 
 ### Videos Explicativos Sobre Android/IOS
 
-[![Que es IOS](v=rZmAfuo70PY)](https://www.youtube.com/watch?v=rZmAfuo70PY)
+[![¿Qué es iOS?](https://img.youtube.com/vi/rZmAfuo70PY/0.jpg)](https://www.youtube.com/watch?v=rZmAfuo70PY)  
+[![¿Qué es Android?](https://img.youtube.com/vi/GQag3AcBdQE/0.jpg)](https://www.youtube.com/shorts/GQag3AcBdQE)
